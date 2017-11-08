@@ -5,7 +5,7 @@ SGX Security and Privacy
 
   Taesoo Kim (Georgia Tech)
   Zhiqiang Lin (UT Dallas)
-  Chia-Che Tsai (UC Berkeley/Texas A&M University)
+  Chia-Che Tsai (Stony Brook University / UC Berkeley)
 
 Abstract
 --------
@@ -21,7 +21,7 @@ or thin shielding layers; we will explain the pros and cons of each
 approach in terms of security and usability.
 
 - SGX 101: introduction, performance, and applications ([01-intro.pdf](sgx-tutorial-ccs17/01-intro.pdf))
-- LibOS: shielding framework and tools ([02-libos.pdf](sgx-tutorial-ccs17/02-libos.pdf))
+- SGX shielding framework and development tools ([02-libos.pdf](sgx-tutorial-ccs17/02-libos.pdf))
 - SGX Security Issues ([03-security.pdf](sgx-tutorial-ccs17/03-security.pdf))
 
 Biography
