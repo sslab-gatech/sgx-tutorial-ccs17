@@ -1,0 +1,57 @@
+SGX Security and Privacy
+========================
+
+  Thursday, November 2nd, 9:00am – 12:30pm, Dallas Ballroom D3
+
+  Taesoo Kim (Georgia Tech)
+  Zhiqiang Lin (UT Dallas)
+  Chia-Che Tsai (UC Berkeley/Texas A&M University)
+
+Abstract
+--------
+
+Abstract: In this tutorial, we will first introduce the basic concepts
+of Intel SGX, its development workflows, potential applications and
+performance characteristics. Then, we will explain known security
+concerns, including cache/branch side-channel attacks and memory
+safety issues, and corresponding defenses with various working
+demos. Last but not least, we will introduce various ways to quickly
+start writing SGX applications, specifically by utilizing library OSes
+or thin shielding layers; we will explain the pros and cons of each
+approach in terms of security and usability.
+
+- SGX 101: introduction, performance, and applications ([01-intro.pdf](sgx-tutorial-ccs17/01-intro.pdf))
+- LibOS: shielding framework and tools ([02-libos.pdf](sgx-tutorial-ccs17/02-libos.pdf))
+- SGX Security Issues ([03-security.pdf](sgx-tutorial-ccs17/03-security.pdf))
+
+Biography
+---------
+
+Biography: Taesoo Kim is an Assistant Professor in the School Computer
+Science at Georgia Tech. He also serves as the director of the Georgia
+Tech Systems Software and Security Center (GTS3). He is interested in
+building a system that has underlying principles for why it should be
+secure. Those principles include the design of a system, analysis of
+its implementation, and clear separation of trusted components. His
+thesis work, in particular, focused on detecting and recovering from
+attacks on computer systems. He holds a BS from KAIST (2009), a SM
+(2011) and a PhD (2014) from MIT in CS.
+
+Zhiqiang Lin is an Associate Professor of Computer Science at The
+University of Texas at Dallas. He earned his PhD from Computer Science
+Department at Purdue University in 2011. His primary research
+interests are systems and software security, with an emphasis on
+developing program analysis techniques and applying them to secure
+both application programs including mobile apps and the underlying
+system software such as Operating Systems and hypervisors. Dr. Lin is
+a recipient of the NSF CAREER Award and the AFOSR Young Investigator
+Award.
+
+Chia-Che Tsai is a PhD candidate at Stony Brook University, and will
+soon join the RISE Lab at UC Berkeley as a postdoc researcher. He is
+also joining the Computer Science and Engineering department of Texas
+A&M University in Fall 2018 as a faculty. He is interested in building
+OSes and runtimes with a balance between usability, security, and
+performance. He is the main contributor to the Graphene library OS, an
+open-source framework for reusing unmodified Linux applications on
+Intel SGX and other various host options.
